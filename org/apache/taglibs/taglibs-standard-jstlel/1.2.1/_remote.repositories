@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 14 20:08:10 JST 2018
+taglibs-standard-jstlel-1.2.1.jar>central=
+taglibs-standard-jstlel-1.2.1.pom>central=
+taglibs-standard-jstlel-1.2.1-sources.jar>central=
